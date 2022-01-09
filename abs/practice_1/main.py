@@ -1,8 +1,5 @@
 def main():
-    a = int(input())
-    b, c = map(int, input().split())
-    s = input()
-    print(a+b+c, s)
+    pass
 
 if __name__ == '__main__':
     main()
